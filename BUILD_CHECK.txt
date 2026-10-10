@@ -1,0 +1,9 @@
+ENDGAME 4DX RELAY WATCHER V3-JITTER
+
+[OK] min poll
+[OK] max poll
+[OK] random jitter
+[OK] 5 sec floor
+[OK] increase-only alert retained
+[OK] relay retained
+[OK] node --check app.mjs
